@@ -26,5 +26,5 @@ def send_email_better(sender, password, recipient, body, subject, file_path):
     return
 
 
-send_email_better("mrtaquito04@gmail.com", "Gmail1215!", "8052984009@txt.att.net", "Yo Yo Yo!!! I can text you mommy!!!", "Can you see this?", "")
+send_email_better("mrtaquito04@gmail.com", "(:", "8052984009@txt.att.net", "Yo Yo Yo!!! I can text you mommy!!!", "Can you see this?", "")
 
